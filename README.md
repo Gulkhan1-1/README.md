@@ -8,7 +8,7 @@
 - 📫 How to reach me: [gulkhanwaziri725@gmail.com]
 
 ## 🛠️ Tech Stack
-![Languages and Tools](Html,Css,Bootstrap,Tailwindcss,javaScript,reactjs,nodejs,Expressjs,MongoDB,Mysql,python,PHP,Laravel,git,github,figma,vscode)
+Languages and Tools:  Html,Css,Bootstrap,Tailwindcss,javaScript,reactjs,nodejs,Expressjs,MongoDB,Mysql,python,PHP,Laravel,git,github,figma,vscode
 
 ## 📈 GitHub Stats
 ![Your GitHub stats][(https://github.com/Gulkhan1-1/README.md/edit/main/README.md)
